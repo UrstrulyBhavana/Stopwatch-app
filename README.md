@@ -29,3 +29,6 @@ HTML: Structure of the stopwatch and buttons.
 CSS: Styling for the layout, gradient background, and button alignment.
 
 JavaScript: Logic for timer control, time formatting, and DOM updates.
+
+
+![Image](https://github.com/user-attachments/assets/6ad21a05-daad-4a8a-af92-f7633f187cf8)
